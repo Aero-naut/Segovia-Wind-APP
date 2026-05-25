@@ -1,0 +1,1 @@
+# segovia-wind-app
